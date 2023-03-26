@@ -3,6 +3,17 @@ body {
     font-size: 15px;
 }
 
+.container {
+    position: relative;
+    background-color: blue;
+    width: 60%;
+    height: 70vh;
+    left: auto;
+    right: auto;
+    top: 20px;
+    bottom: 20px;
+}
+
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
