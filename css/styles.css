@@ -1,4 +1,7 @@
-
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
 .attribution { font-size: 11px; text-align: center; }
