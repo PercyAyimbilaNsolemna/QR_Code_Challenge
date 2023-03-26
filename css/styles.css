@@ -5,7 +5,7 @@ body {
 
 .container {
     position: relative;
-    background-color: blue;
+    background-color: hsl(212, 45%, 89%);
     width: 80%;
     height: 70vh;
     top: 100px;
@@ -16,6 +16,11 @@ body {
 
 .content {
     position: absolute;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 250px;
 }
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
