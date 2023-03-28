@@ -1,12 +1,13 @@
 body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
 }
 
 img {
     width: 90%;
+    margin-top: 5%;
     margin-left: 5%;
-    margin-top: 5px;
     border-radius: 20px;
 }
 
