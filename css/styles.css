@@ -18,7 +18,7 @@ h3 {
 }
 
 p {
-    color: hsl(218, 44%, 22%);
+    color: hsl(220, 15%, 55%);
     font-size: 15px;
     font-weight: 400;
     text-align: center;
@@ -50,6 +50,9 @@ p {
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
 .attribution { 
+    background-color: red;
+    position: absolute;
+    
     font-size: 11px; 
     text-align: center; 
 }
