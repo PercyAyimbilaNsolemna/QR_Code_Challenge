@@ -15,20 +15,26 @@ body {
 }
 
 .content {
-    background-color: hsl(0, 0%, 100%);
+    background-color: red;
+    /*background-color: hsl(0, 0%, 100%);*/
+    width: 20%;
     position: absolute;
-    width: 30%;
-    left: auto;
-    right: auto;
-    margin-top: 50px;
-    
-  
+    top: 15%;
+    left: 30%;
 }
 
 img {
-    width: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5px;
+    border-radius: 20px;
 }
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
