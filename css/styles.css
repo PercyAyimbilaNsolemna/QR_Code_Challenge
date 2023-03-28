@@ -17,6 +17,7 @@ body {
 .content {
     background-color: red;
     /*background-color: hsl(0, 0%, 100%);*/
+    border-radius: 15px;
     width: 20%;
     position: absolute;
     top: 5%;
