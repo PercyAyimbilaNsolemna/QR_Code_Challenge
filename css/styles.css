@@ -97,9 +97,14 @@ I removed the container class
     }
 }
 
-@media (max-width: 1219px) {
-    p { 
-        padding: 0 10px;
+@media (max-width: 1215px) {
+
+    h3 {
+        margin-left: 20px;
+    }
+
+    p {
+        padding: 0 8px;
     }
     
 }
