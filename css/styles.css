@@ -7,8 +7,8 @@ body {
     background-color: hsl(212, 45%, 89%);
     position: relative;
     width: 80%;
-    height: 60vh;
-    top: 100px;
+    height: 80vh;
+    top: 60px;
     bottom: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -19,8 +19,8 @@ body {
     /*background-color: hsl(0, 0%, 100%);*/
     width: 20%;
     position: absolute;
-    top: 15%;
-    left: 30%;
+    top: 5%;
+    left: 40%;
 }
 
 img {
