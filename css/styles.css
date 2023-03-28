@@ -26,6 +26,8 @@ p {
     padding: 0 20px;
 }
 
+/*
+I removed the container class
 
 .container {
     background-color: hsl(212, 45%, 89%);
@@ -38,11 +40,12 @@ p {
     margin-right: auto;
 }
 
+*/
 
 .content {
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-    width: 25%;
+    width: 20%;
     position: absolute;
     top: 10%;
     left: 40%;
