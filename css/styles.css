@@ -3,6 +3,14 @@ body {
     font-size: 15px;
 }
 
+img {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+
+
 .container {
     background-color: hsl(212, 45%, 89%);
     position: relative;
@@ -20,16 +28,10 @@ body {
     border-radius: 15px;
     width: 20%;
     position: absolute;
-    top: 5%;
+    top: 10%;
     left: 40%;
 }
 
-img {
-    width: 90%;
-    margin-left: 5%;
-    margin-top: 5px;
-    border-radius: 20px;
-}
 
 /* Feel free to remove these styles or customise in your own stylesheet 👍 */
 .attribution { 
