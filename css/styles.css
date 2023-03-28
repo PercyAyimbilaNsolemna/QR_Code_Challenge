@@ -108,3 +108,15 @@ I removed the container class
     }
     
 }
+
+@media (max-width: 1169px) {
+
+    h3 {
+        margin-left: 10px;
+    }
+    
+
+    p { 
+        padding: 0 6px;
+    }
+}
