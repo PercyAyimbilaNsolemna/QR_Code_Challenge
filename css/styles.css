@@ -120,3 +120,19 @@ I removed the container class
         padding: 0 6px;
     }
 }
+
+@media (max-with: 1124px) {
+
+    h3 {
+        margin-left: 5px;
+        padding: 0 10px;
+    }
+
+    p {
+        padding: 0 2px;
+    }
+
+    .content {
+        width: 30%;
+    }
+}
