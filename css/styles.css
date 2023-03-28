@@ -136,3 +136,20 @@ I removed the container class
         width: 30%;
     }
 }
+
+/*Working on mobile view */
+
+@media (max-width: 500px){
+
+    .content {
+        width: 80%;
+        left: 10%;
+        top: 5%;
+    }
+
+    h3 {
+        font-size: 1.4rem;
+        margin-left: 20px;
+        padding: 0 50px;
+    }
+}
