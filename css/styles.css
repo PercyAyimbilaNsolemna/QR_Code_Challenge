@@ -46,6 +46,7 @@ I removed the container class
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
     width: 20%;
+    padding-bottom: 20px;
     position: absolute;
     top: 10%;
     left: 40%;
@@ -65,4 +66,11 @@ I removed the container class
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+
+/* Making the website responsive */
+@media (max-width: 1359px) {
+    p {
+        padding: 0 10px;
+    }   
 }
